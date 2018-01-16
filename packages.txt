@@ -1,0 +1,13 @@
+DT
+ggplot2
+dplyr
+shinydashboard
+leaflet
+curl
+htmlwidgets
+digest
+bit
+shinythemes
+readr
+highcharter
+tidyr
